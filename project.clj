@@ -4,6 +4,5 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
-                 [org.hawkular.apm/hawkular-apm-client-opentracing "0.14.0.Final"]
-                 [org.hawkular.apm/hawkular-apm-trace-publisher-rest-client "0.14.0.Final"]])
-
+                 [org.hawkular.apm/hawkular-apm-client-opentracing "0.14.1.Final"]
+                 [org.hawkular.apm/hawkular-apm-trace-publisher-rest-client "0.14.1.Final"]])
