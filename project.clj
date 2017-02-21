@@ -1,4 +1,4 @@
-(defproject opentracing-hawkular-clj "0.1.0-SNAPSHOT"
+(defproject org.clojars.gonewest818/opentracing-hawkular-clj "0.1.0-SNAPSHOT"
   :description "Send OpenTracing trace information to Hawkular APM"
   :url "http://github.com/gonewest818/opentracing-hawkular-clj"
   :license {:name "Eclipse Public License"
