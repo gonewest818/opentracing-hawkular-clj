@@ -1,6 +1,9 @@
 # opentracing-hawkular-clj
 
-A Clojure library designed to ... well, that part is up to you.
+Send OpenTracing trace information to Hawkular APM
+
+[![Build Status](https://travis-ci.org/gonewest818/opentracing-hawkular-clj.svg?branch=master)](https://travis-ci.org/gonewest818/opentracing-hawkular-clj)
+[![Coverage Status](https://coveralls.io/repos/github/gonewest818/opentracing-hawkular-clj/badge.svg?branch=master)](https://coveralls.io/github/gonewest818/opentracing-hawkular-clj?branch=master)
 
 ## Usage
 
